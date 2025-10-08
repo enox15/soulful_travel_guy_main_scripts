@@ -39,7 +39,7 @@
 
     <script type='text/javascript' src='<?=base_url('assets/front/js/jqueryb8ff.js?ver=1.12.4');?>'></script>
     <script type='text/javascript' src='<?=base_url('assets/front/js/anime.min.js');?>'></script>
-    <!--<script type="text/javascript" src="<?=base_url('assets/front/js/jquery.min.1.11.0.js');?>"></script>-->
+    <script type="text/javascript" src="<?=base_url('assets/front/js/jquery.min.1.11.0.js');?>"></script>
     <script type='text/javascript' defer src='<?=base_url('assets/front/js/plugins37cb.js?ver=4.9.7');?>'></script>
     <!--<script type='text/javascript' defer src='wp-content/themes/alberta/css/source/jquery.fancybox.pack37cb.js?ver=4.9.7'></script>-->
     <script type='text/javascript' defer src='<?=base_url('assets/front/js/custom.min97e4.js?v=1.0&amp;ver=4.9.7');?>'></script>
