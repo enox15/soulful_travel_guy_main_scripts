@@ -12,9 +12,15 @@
     <meta name="description" content="<?=$headerdata->description?>">
     <meta name="keywords" content="<?=$headerdata->keyword?>">
 
+    <!-- ✅ Open Graph tags for Mediavine Grow -->
+    <meta property="og:title" content="<?=$headerdata->title?>">
+    <meta property="og:description" content="<?=$headerdata->description?>">
+    <meta property="og:url" content="<?=current_url()?>">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="<?=base_url('assets/front/img/banner-img-1.png')?>">
+
     <!-- Mediavine Grow -->
     <script data-grow-initializer="">!(function(){window.growMe||((window.growMe=function(e){window.growMe._.push(e);}),(window.growMe._=[]));var e=document.createElement("script");(e.type="text/javascript"),(e.src="https://faves.grow.me/main.js"),(e.defer=!0),e.setAttribute("data-grow-faves-site-id","U2l0ZTpmMWU1NGU2Yy04NTdiLTQ5NDQtODkxOC00MGI3NTczZjdlOGU=");var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t);})();</script>
-
 
     <link rel="shortcut icon" href="<?=base_url('/assets/front/img/favicon-t.ico');?>" type="image/x-icon">
     <link rel="preload" href="<?=base_url('assets/front/css/style62ea.css?ver=1.2');?>" as="style">
