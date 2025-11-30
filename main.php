@@ -59,9 +59,6 @@
      gtag('config', 'UA-149252471-1');
   </script>
   
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7822782447345065"
-     crossorigin="anonymous"></script>
-
      <!-- Mediavine Journey -->
      <script type="text/javascript" async="async" data-noptimize="1" data-cfasync="false" src="//scripts.scriptwrapper.com/tags/a84bf0fa-5d35-425c-84cb-482cc2635236.js"></script>
     
