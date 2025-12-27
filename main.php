@@ -83,6 +83,9 @@
 </script>
 <!-- End MailerLite Universal -->
 
+<!-- Flex Offers Automatic Links -->
+<script>var imported = document.createElement('script');imported.src = 'https://content.flexlinkspro.com/flexlinks_1195692.js';document.head.appendChild(imported);</script>
+<!-- End Flex Offers Automatic Links -->
 
 </head>
 <body class="home page-template page-template-page-template-home page-template-page-template-home-php page page-id-2 group-blog <?=$class?>">
