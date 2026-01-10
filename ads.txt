@@ -1,10 +1,11 @@
-# Ads.txt v20251112
+# Ads.txt v20260107
 managerdomain=journeymv.com
 contact=sales@journeymv.com
 ownerdomain=soulfultravelguy.com
 journeymv.com, a84bf0fa-5d35-425c-84cb-482cc2635236, DIRECT, 1363c924529b3998
 
 google.com, pub-1601477034266482, DIRECT, f08c47fec0942fa0
+google.com, pub-7585907861569631, DIRECT, f08c47fec0942fa0
 google.com, pub-1601477034266482, RESELLER, f08c47fec0942fa0
 media.net, 8CU41446D, DIRECT
 pubmatic.com, 159463, RESELLER, 5d62403b186f2ace
@@ -156,6 +157,18 @@ openx.com, 559680764, RESELLER
 sharethrough.com, a6a34444, RESELLER
 smartadserver.com, 5277, DIRECT, 060d053dcf45cbf3
 trustedstack.com, TSUKNZU26, DIRECT
+insticator.com, 43219255-112b-4498-9611-d971f8327962, DIRECT, b3511ffcafb23a32
+rubiconproject.com, 17062, DIRECT, 0bfd66d529a55807
+sharethrough.com, Q9IzHdvp, DIRECT, d53b998a7bd4ecd2
+lijit.com, 257618, DIRECT, fafdf38b16bf6b2b
+pubmatic.com, 95054, DIRECT, 5d62403b186f2ace
+triplelift.com, 6998, DIRECT, 6c33edb13117fd86
+themediagrid.com, DQ6AMB, DIRECT, 35d5010d7789b49d
+video.unrulymedia.com, 136898039, DIRECT
+loopme.com, 11530, DIRECT, 6c8d5f95897a5a3b
+adform.com, 2996, DIRECT
+risecodes.com, 6124caed9c7adb0001c028d8, DIRECT
+minutemedia.com, 01garg96c88b, DIRECT
 
 
 
